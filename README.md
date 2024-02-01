@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently working on this README.md
 
 <!--
 **Strawberryai/Strawberryai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarovelascoprieto&show_icons=true&locale=en&layout=compact" alt="alvarovelascoprieto" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarovelascoprieto&show_icons=true&locale=en" alt="alvarovelascoprieto" /></p>
