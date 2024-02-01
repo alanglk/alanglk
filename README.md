@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strawberryai&show_icons=true&locale=en&layout=compact" alt="strawberryai" />
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=strawberryai&show_icons=true&locale=en" alt="strawberriay" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=strawberryai&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawberryai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
